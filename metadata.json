@@ -1,0 +1,6 @@
+{
+  "name": "Metrohm Smart Lab",
+  "description": "Android mobile companion and lab administration suite for Metrohm detectors and analyzer configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
